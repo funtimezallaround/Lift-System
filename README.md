@@ -13,7 +13,7 @@
   - If the lift is not idle, but the lift will pass by the call floor<sup>1</sup>, the ETA to the call floor is how long it will take to get to the call floor and open its doors.
   - If the lift is not idle, and the lift will not pass by the call floor, the ETA to the call floor is how long the lift will take to get to its destination and open its doors + how long the lift will take to get to the call floor from the destination floor and open its doors
 
-<sup>1</sup>: If the lift is at the call floor and is not idle, then this lift doese not fall into this category, since it is too late to stop the lift at this floor
+1: If the lift is at the call floor and is not idle, then this lift doese not fall into this category, since it is too late to stop the lift at this floor
 
 This program is my first project using Python. While I tried my best, some inefficiencies are present.
 
